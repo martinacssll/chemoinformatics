@@ -8,7 +8,6 @@ Assignments for the Chemoinformatics+ Ljubljana Summer School
 .
 ├── README.md                                   # Overview
 ├── MOOC_assignments/                           # MOOC assignments
-│   └── data/                                   # Datasets used in the notebooks
 │   └── chemical_space_visualization.ipynb
 │   └── scoring_generated_molecules.ipynb
 ```
