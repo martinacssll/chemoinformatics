@@ -1,7 +1,5 @@
 # Chemoinformatics
 
-Assignments for the Chemoinformatics+ Ljubljana Summer School
-
 ## 📂 Structure
 
 ```text
