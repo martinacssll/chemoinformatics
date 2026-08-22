@@ -4,8 +4,8 @@
 
 ```text
 .
-├── README.md                                   # Overview
-├── MOOC_assignments/                           # MOOC assignments
+├── README.md 
+├── MOOC_assignments/       
 │   └── QSAR_model.ipynb
 │   └── chemical_space_visualization.ipynb
 │   └── scoring_generated_molecules.ipynb
